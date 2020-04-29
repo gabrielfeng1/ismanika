@@ -19,7 +19,7 @@ $(function() {
 	    // how simpleCart should checkout, see the checkout reference for more info
 	    checkout: {
 	        type: "PayPal" ,
-	        email: "you@yours.com"
+	        email: "fenggabe@gmail.com"
 	    },
 
 	    // set the currency, see the currency reference for more info
@@ -76,7 +76,7 @@ $(function() {
 		brand : "Ismanika",
 
 		// numder of products per row (accepts 1, 2 or 3)
-		numColumns : 1,
+		numColumns : 3,
 
 		// name of JSON file, located in directory root
 		JSONFile : "products.json"
