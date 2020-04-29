@@ -6,7 +6,7 @@
 			"options" : [
 				{ "Size" : "Small,Medium,Large" }
 			],
-			"image" : "/images/product.jpg",
+			"image" : "/images/product.JPG",
 			"description" : "What is this"
 		}
 		
