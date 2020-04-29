@@ -2,7 +2,7 @@
 	"products" : [
 		{
 			"name" : "Aloe Vera Drink",
-			"price" : "35.99",
+			"price" : "5.00",
 			"options" : [
 				{ "Size" : "Small,Medium,Large" }
 			],
