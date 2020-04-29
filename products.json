@@ -6,7 +6,7 @@
 			"options" : [
 				{ "Size" : "Small,Medium,Large" }
 			],
-			"image" : "images/background.png",
+			"image" : images/background.PNG,
 			"description" : "What is this"
 		}
 		
